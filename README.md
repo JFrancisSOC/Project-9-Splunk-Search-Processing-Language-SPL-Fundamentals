@@ -121,7 +121,9 @@ In this project, I learned the fundamentals of Splunk Search Processing Language
 ![07 Table Command](07%20Table%20Command.png)
 
 ---
+### 08 – Stats Command
 
+![08 Stats Command](08%20Stats%20Command.png)
 
 
 ### 09 – Sort Command
